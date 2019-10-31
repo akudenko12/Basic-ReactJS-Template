@@ -1,0 +1,16 @@
+.jumbotron {
+  background-image: url("../images/daylight-environment-forest.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  text-align: center;
+  color: #fff;
+}
+
+.display-1 {
+  font-weight: 400;
+}
+
+.lead {
+  font-size: 2.5em;
+}
